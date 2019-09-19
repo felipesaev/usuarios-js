@@ -6,7 +6,7 @@ class User {
         this.country = country;
         this.email = email;
         this.password = password;
-        this.photo =    photo;
+        this.photo = photo;
         this.admin = admin;
     }
 }
